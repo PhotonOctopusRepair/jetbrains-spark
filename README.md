@@ -36,4 +36,4 @@ All-in-one **JetBrains Spark** coding platform featuring syntax highlighting, ve
 
 ## ⚠️ Disclaimer
 > [!CAUTION]
-> This repository is provided for educational and utility purposes only. Use at your own discretion.    
+> This repository is provided for educational and utility purposes only. Use at your own discretion.     
